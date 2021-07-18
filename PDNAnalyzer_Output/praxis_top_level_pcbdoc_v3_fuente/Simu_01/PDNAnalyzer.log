@@ -1,0 +1,20 @@
+eMessage_Info ODB file is out of date, regenerating it...
+eMessage_Info Begin analyzing Simu_01
+eMessage_Info Generated the settings file: C:\Users\Diego\Google Drive\UTN\6to año\Proyecto Final\Proyecto\Desarrollo\FASE 4 - DISEÑO EN DETALLE\PDNAnalyzer_Output\praxis_top_level_pcbdoc_v3_fuente\Simu_01\praxis_top_level_pcbdoc_v3_fuente.py
+<<info>>
+CST PI-DC Module [built: Mar 18 2018 / 22:44:35, version=Version 2018.4 Build: 20180318]
+<<end>>
+<<error>>
+eMessage_Error <<error>>
+Solver Process 13676 exited with code 1.
+Exception in python code:
+eMessage_Error Exception in python code:
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf1 in position 37: invalid continuation byte
+eMessage_Error UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf1 in position 37: invalid continuation byte
+-> PDN Analyzer stopped with error.
+eMessage_Error -> PDN Analyzer stopped with error.
+<<end>>
+eMessage_Error <<end>>
+eMessage_Info Load and analyze result for Simu_01
+eMessage_Error fields.json doesn't exist
+eMessage_Info Analysis Complete Simu_01

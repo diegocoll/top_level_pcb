@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-17082010-078287";"";
+"REFERENCE";"AKSPLT/G-BLACK";"";
+"TraceParts.PartTitle";"Jumper, pitch 2.54mm - AKSPLT";"";
+"TraceParts.InstanceId";"10-17082010-078287E7RRHJUSYJP42Y83P40CFP4D5";"";
+"DESIGN";"Jumper, pitch 2.54mm - AKSPLT/G-BLACK";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.180/10-17082010-078287";"";
