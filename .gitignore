@@ -1,6 +1,14 @@
 __Previews/
 History/
+odb/
+PDNAnalyzer_Config/
+PDNAnalyzer_Output/
 * Logs*
 Project Outputs *
 *.DSNlck
 *.ini
+*.edb
+*.aedtresults
+*.Cam
+*.tgz
+*.zip
